@@ -1,0 +1,108 @@
+HP@LAPTOP-DMG4CARG MINGW64 ~ (master)
+$ pwd
+/c/Users/HP
+
+HP@LAPTOP-DMG4CARG MINGW64 ~ (master)
+$ cd desktop
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ mkdir github
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ cd github
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop/github (master)
+$ ls
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop/github (master)
+$ touch test.html
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop/github (master)
+$ ls
+test.html
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop/github (master)
+$ touch style.css
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop/github (master)
+$ cd ..
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ ls
+'A NEW LOOK FOR MAC DO (2014_06_30 18_21_23 UTC) (1).pdf'
+'BTS SIO'/
+'BTS SIO (2).zip'
+'BTS SIO.zip'
+ CapCut.lnk*
+'Cisco Packet Tracer.lnk'*
+ Contact.url
+'Cours resaux2024'/
+'Eclipse IDE for Java Developers - 2023-12.lnk'*
+ Firefox.lnk*
+ GitHub-apprentissage/
+ Groupegefor/
+ HeidiSQL.lnk*
+'Nouveau dossier'/
+'Nouveau dossier (12)'/
+'Nouveau dossier (2)'/
+'Nouveau dossier (3)'/
+'Nouveau dossier (4)'/
+'Nouveau dossier.zip'
+ Omegle.lnk*
+ Snapchat.lnk*
+'Visual Studio Code.lnk'*
+'bac pro sn'/
+ desktop.ini
+ englais/
+ englobetout/
+ eppportfolio/
+ formation-greta.zip
+ forms-checkmark.png
+ francais/
+ github/
+ githubgrafikart/
+ greta/
+ html/
+ interieur-scandinav/
+ interieurScandinave-main.zip
+ mcdgeffor.png
+ nabilchacha.github.io/
+'nouveau 3.ps1'
+ okgeformcd.asi
+ okgeformcdmodifier18_10.asi
+ okgeformcdmodifier18_10.asi.png
+ pret/
+ py/
+ testaujourdhui.asi
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ pwd
+/c/Users/HP/desktop
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+HP@LAPTOP-DMG4CARG MINGW64 ~/desktop (master)
+$ ls
+'A NEW LOOK FOR MAC DO (2014_06_30 18_21_23 UTC) (1).pdf'
+'BTS SIO'/
+'BTS SIO (2).zip'
+'BTS SIO.zip'
+ CapCut.lnk*
+'Cisco Packet Tracer.lnk'*
+ Contact.url
+'Cours resaux2024'/
+'Eclipse IDE for Java Developers - 2023-12.lnk'*
+ Firefox.lnk*
+ GitHub-apprentissage/
+ Groupegefor/
+ HeidiSQL.lnk*
+'Nouveau dossier'/
+'Nouveau dossier (12)'/
+'Nouveau dossier (2)'/
+'Nouveau dossier (3)'/
+'Nouveau dossier (4)'/
+'Nouveau dossier.zip'
+ Omegle.lnk*
+ Snapchat.lnk*
